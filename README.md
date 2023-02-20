@@ -19,3 +19,6 @@ source download https://fki.tic.heia-fr.ch/databases/download-the-iam-handwritin
              https://utorontomist.medium.com/handwriting-recognition-using-deep-learning-14ec078872b0
              https://pyimagesearch.com/2020/08/17/ocr-with-keras-tensorflow-and-deep-learning/
              https://nanonets.com/blog/handwritten-character-recognition/
+
+# Inspiration
+             https://github.com/ChiragSehra/Handwriting-Recognition-From-Forms-Using-Deep-Learning
